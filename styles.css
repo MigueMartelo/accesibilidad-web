@@ -142,9 +142,11 @@ nav {
 }
 
 .intro {
+  max-width: 50%;
   margin: 24px 196px 0;
   font-family: var(--secondary-font);
   color: var(--blanco);
+  text-align: center;
 }
 
 .social-media {
